@@ -6,6 +6,7 @@ ___
 ##### This project implements a linear regression model to predict house prices based on key factors like square footage, number of bedrooms, and number of bathrooms. The data is loaded from a CSV file, preprocessed if necessary, and used to train and evaluate the model. The project explores the relationship between these features and house prices, providing insights into the real estate market.
 ___
 **STEPS INVOLVED**
+___
 *Data Collection*: 
 
 ##### Obtain a dataset containing information about houses, including features like square footage, number of bedrooms, number of bathrooms, and corresponding prices.
