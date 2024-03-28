@@ -47,4 +47,10 @@ ___
 
 ##### Once satisfied with the model's performance, deploy it in a production environment where it can be used to predict house prices based on new input data (square footage, bedrooms, bathrooms).
 
+___
+
+### USAGE:
+
+1)Used jupyter notebook for python coding.
+
 
